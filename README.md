@@ -1,7 +1,7 @@
 # Nanocomposites
 Each entry in the database represents a nanocomposite with its measured properties. The input variables (or features) include:
-P1: The size of nanomaterials  (S)\\
-P2: Tensile strength (T)\\
+P1: The size of nanomaterials  (S)
+P2: Tensile strength (T)
 P3: Flexural Strength (F)
 P4: Temperature (TM)
 P5: Concentration (CO)
